@@ -6,3 +6,4 @@ Currently on a newly created branch.
 Trying some some edits. 
 
 09.10.2019 (Mittwoch)
+Edit from R studio
